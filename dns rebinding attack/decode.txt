@@ -1,0 +1,6 @@
+import base64
+
+message = "VGhpcyBpcyB0aGUgdGFyZ2V0IG1haW4gcGFnZQ=="
+base64_message = base64.b64decode(message)
+
+print(base64_message)
