@@ -1,0 +1,9 @@
+body{
+    height: 100vh;
+    overflow-y: hidden;
+    background-color: black;
+}
+img{
+    height: 620px;
+    width:100%;
+}

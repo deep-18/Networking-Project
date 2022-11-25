@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: #F38B34;
+}
+.card{
+    background-color: black;
+    color:#F38B34;
+    border:1px solid #F38B34;
+}
+.card-header{
+    border-bottom:1px solid #F38B34;
+}
+.form-control{
+    border:1px solid #F38B34;
+}
